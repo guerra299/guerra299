@@ -64,3 +64,5 @@
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 - 🔭 actualmente estoy estudiando programacion en software en el SENA
+  <img width="3089" height="2048" alt="image" src="https://github.com/user-attachments/assets/8a984b3a-edaf-4769-9803-6007a9532a2b" />
+
