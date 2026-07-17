@@ -63,6 +63,4 @@
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
-Here are some ideas to get you started:
-
 - 🔭 actualmente estoy estudiando programacion en software en el SENA
