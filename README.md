@@ -2,10 +2,11 @@
 
 <!--
 **guerra299/guerra299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1797" height="218" alt="image" src="https://github.com/user-attachments/assets/fa3389e7-840e-47ec-b92c-dc7360b785fc" />
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...<img width="1797" height="218" alt="welcome" src="https://github.com/user-attachments/assets/5db73dd7-a603-4a0a-bdc8-c70906bed518" />
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
