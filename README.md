@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img width="1024" height="311" alt="image" src="https://github.com/user-attachments/assets/6584813a-5a8b-4953-8a19-e70a70361263" />
 
-**guerra299/guerra299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**guerra299/guerra299** 
 <a name="learning-now"></a>
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
