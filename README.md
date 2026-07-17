@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!--
-**guerra299/guerra299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img width="1797" height="218" alt="image" src="https://github.com/user-attachments/assets/fa3389e7-840e-47ec-b92c-dc7360b785fc" />
+**guerra299/guerra299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<img width="320" height="267" alt="image" src="https://github.com/user-attachments/assets/f1b48899-7c13-4919-846e-b5fa1541377d" />
+
 
 Here are some ideas to get you started:
 
